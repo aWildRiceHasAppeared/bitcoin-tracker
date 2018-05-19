@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BitCoin Tracker Watch App (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>BitCoin Tracker Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>BitCoin Tracker.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E32E94A02012F5A0005C24F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E32E94B72012F5A0005C24F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E32E94C22012F5A0005C24F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,6 @@
+framework module Pods_BitCoin_Tracker {
+  umbrella header "Pods-BitCoin Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
